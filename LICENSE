@@ -1,0 +1,40 @@
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+Copyright 2024 Johan Varughese
+
+The original benchmark design, environment architectures (CommonsEnvironment,
+MarketEnvironment, InstitutionEnvironment), metric formulations (Institutional
+Emergence Score, Collective Adaptation Rate, Coordination Efficiency Index),
+and experimental protocol are the intellectual contribution of Johan Varughese
+and must be attributed in any academic publication, derivative work, or
+redistribution.
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not
+use this file except in compliance with the License. You may obtain a copy of
+the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed
+under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+CONDITIONS OF ANY KIND, either express or implied. See the License for the
+specific language governing permissions and limitations under the License.
+
+---------------------------------------------------------------------------
+CITATION REQUIREMENT (Academic Use)
+
+Any academic publication (paper, thesis, technical report, preprint) that uses
+CollectiveOS-Bench, its environments, metrics, or experimental protocol MUST
+cite the original work:
+
+  Varughese, Johan. "CollectiveOS-Bench: A Benchmark Suite for Emergent
+  Cooperation, Institutions, and Collective Intelligence in Multi-Agent
+  Systems." 2024. https://github.com/johanvarughese/collectiveos-bench
+
+Failure to provide this citation in academic use constitutes a violation of
+the license terms.
+---------------------------------------------------------------------------

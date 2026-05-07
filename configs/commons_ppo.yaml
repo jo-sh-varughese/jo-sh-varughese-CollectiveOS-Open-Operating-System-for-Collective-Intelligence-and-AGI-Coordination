@@ -1,0 +1,20 @@
+# configs/commons_ppo.yaml
+name: commons_ppo
+environment: commons
+env_kwargs:
+  n_agents: 5
+  max_resource: 100.0
+  regen_rate: 0.3
+  collapse_thresh: 5.0
+agent_type: ppo
+agent_kwargs:
+  lr: 0.0003
+  clip_eps: 0.2
+  n_epochs: 4
+  hidden: 128
+n_episodes: 500
+max_steps: 200
+seed: 42
+log_interval: 25
+save_dir: results
+device: cpu
